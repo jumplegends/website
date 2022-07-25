@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+#jmptitle{
+    color: red;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 500%;
+}
+
+nav{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(50, 50, 50);
+    box-shadow: 0px 2px 4px;
+}
+
+nav ul{
+    float: right;
+}
+
+nav li{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+
+nav li a{
+    font-family: fantasy;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li .active{
+    color: red;
+}
+
+nav img{
+    height: 45px;
+    margin-top: 50px;
+    transform: translate(0%, -50%);
+    margin-left: 20px;
+}
+
+#logoname{
+    color: white;
+    font-family: fantasy;
+    width: 200%;
+}
+
+.updatesection{
+    color: white;
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+#body_main{
+    font-family: fantasy;
+    font-size: 17px;
+    color: white;
+}
