@@ -14,7 +14,7 @@ if(!isset($_SESSION["username"])){
     <meta name="description" content="">
     <title>1hedkrzekdh58ej3idj4ir3hekfe</title>
     <link rel="stylesheet" href="jump-main.css" media="screen">
-<link rel="stylesheet" href="1hedkrzekdh58ej3idj4ir3hekfe.css" media="screen">
+    <link rel="stylesheet" href="1hedkrzekdh58ej3idj4ir3hekfe.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="jump-main.js" defer=""></script>
     <link rel="icon" href="images/favicon.ico">
